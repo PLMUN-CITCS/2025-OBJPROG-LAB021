@@ -128,6 +128,7 @@ Only perform this if this is the first time you will setup your Git Environment
       - Display the word count to the user.
 
    **Conclusion**
+
    By completing this coding challenge, you will gain experience in:
    - Designing and implementing methods in Java.
    - Working with strings and string manipulation techniques.
